@@ -1,0 +1,52 @@
+/* Custom container styles */
+.custom-container {
+  margin: 1rem 0;
+  padding: 1rem;
+  border-radius: 8px;
+  background-color: var(--vp-c-bg-soft);
+}
+
+.custom-container .icon {
+  margin-right: 0.5rem;
+  font-size: 1.2em;
+}
+
+.custom-container.react {
+  border-left: 4px solid #61dafb;
+}
+
+.custom-container.vue {
+  border-left: 4px solid #42b883;
+}
+
+.custom-container.network {
+  border-left: 4px solid #4a90e2;
+}
+
+.custom-container.python {
+  border-left: 4px solid #3776ab;
+}
+
+.custom-container.java {
+  border-left: 4px solid #f89820;
+}
+
+.custom-container.cpp {
+  border-left: 4px solid #00599c;
+}
+
+.custom-container.javascript {
+  border-left: 4px solid #f7df1e;
+}
+
+.custom-container.typescript {
+  border-left: 4px solid #3178c6;
+}
+
+.custom-container.rust {
+  border-left: 4px solid #dea584;
+}
+
+.custom-container.go {
+  border-left: 4px solid #00add8;
+}
