@@ -73,10 +73,10 @@ export default defineConfig({
         ]
       },
       {
-        text: 'Design',
+        text: 'Language',
         items: [
-          { text: 'UI Components', link: '/design/ui-components/' },
-          { text: 'Color System', link: '/design/colors/' }
+          { text: 'Opic', link: '/language/opic/' },
+          // { text: 'Color System', link: '/design/colors/' }
         ]
       },
       {
@@ -89,6 +89,16 @@ export default defineConfig({
     ],
 
     sidebar: {
+      '/language/opic/': [
+        {
+          text: 'OPIC',
+          items: [
+            { text: '오픽 시험 방법', link: '/language/opic/' },
+            { text: 'Hooks', link: '/language/opic/introduction' },
+            // { text: 'State Management', link: '/development/react/state' }
+          ]
+        }
+      ],
       '/development/react/': [
         {
           text: 'React',
