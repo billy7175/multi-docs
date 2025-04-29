@@ -94,7 +94,7 @@ export default defineConfig({
           text: 'OPIC',
           items: [
             { text: '오픽 시험 방법', link: '/language/opic/' },
-            { text: 'Hooks', link: '/language/opic/introduction' },
+            { text: 'introduction', link: '/language/opic/introduction' },
             // { text: 'State Management', link: '/development/react/state' }
           ]
         }

@@ -35,3 +35,9 @@ The moment was quiet and beautiful, and I felt completely connected to nature. I
 I once made an embarrassing mistake when I sent a personal message to the wrong person. I meant to send it to a close friend, but I accidentally sent it to my teacher.
 It was a light-hearted and funny message, but it was still a bit inappropriate for a teacher. As soon as I realized my mistake, I apologized immediately. Fortunately, my teacher had a good sense of humor and didn’t take it seriously. It taught me to always double-check before hitting “send.”
 
+## 동네 소개
+I live in a three-bedroom apartment located in a fairly busy neighborhood. Although it's not in the countryside, it's not overly noisy either. There are several roads nearby, so I do hear some traffic from time to time, especially during rush hour.
+
+One of the things I like about my neighborhood is that there’s a park and a small stream just a few minutes away from my apartment. It's a nice place to take a walk, exercise, or just enjoy some fresh air. I sometimes go there to clear my head after a long day.
+
+My apartment itself is quite spacious, with three bedrooms, which is perfect for my needs. Overall, my neighborhood isn’t quiet like a rural area, but it has a good balance between convenience and comfort.
