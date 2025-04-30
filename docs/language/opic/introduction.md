@@ -35,9 +35,20 @@ The moment was quiet and beautiful, and I felt completely connected to nature. I
 I once made an embarrassing mistake when I sent a personal message to the wrong person. I meant to send it to a close friend, but I accidentally sent it to my teacher.
 It was a light-hearted and funny message, but it was still a bit inappropriate for a teacher. As soon as I realized my mistake, I apologized immediately. Fortunately, my teacher had a good sense of humor and didn’t take it seriously. It taught me to always double-check before hitting “send.”
 
-## 동네 소개
+## 6.동네 소개
 I live in a three-bedroom apartment located in a fairly busy neighborhood. Although it's not in the countryside, it's not overly noisy either. There are several roads nearby, so I do hear some traffic from time to time, especially during rush hour.
 
 One of the things I like about my neighborhood is that there’s a park and a small stream just a few minutes away from my apartment. It's a nice place to take a walk, exercise, or just enjoy some fresh air. I sometimes go there to clear my head after a long day.
 
 My apartment itself is quite spacious, with three bedrooms, which is perfect for my needs. Overall, my neighborhood isn’t quiet like a rural area, but it has a good balance between convenience and comfort.
+
+
+
+## 7. Difficulties Experienced During Overseas Travel [해외 여행 시 어려움]
+`Question:` Tell me about a challenging experience you had while traveling abroad. What difficulties did you face and how did you handle them?
+
+`Answer:`
+I think language barriers are one of the biggest challenges when traveling abroad. You know, it's really difficult to communicate with locals when you don't speak their language.
+So yeah, I went to China last year. And for sure, as soon as I got there, I ran into a problem. In China, I went to this small local restaurant. The menu had no pictures and no English at all. I tried using a translation app, but it wasn't working well.
+Finally, I just pointed at a random dish that looked good in a picture on the wall. The food was amazing when it arrived - this hot, delicious dish with amazing smells. But the funny part is that I have no idea what I ate, lol! I couldn't tell if it was pork, beef, or something else entirely. So funny, right?! That's what I experienced from the language barrier.
+After that trip, I learned to prepare better. Now I always learn a few basic phrases before traveling to another country - things like "I'm allergic to nuts" or "Where's the bathroom?" Locals really appreciate when you try to speak their language, even if you're not very good at it.# OPIC English Speaking Test Scripts
